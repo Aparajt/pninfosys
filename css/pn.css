@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #F5F5F5;
+}
+.a{
+    padding: 20px 10px;
+    color: #F5F5F5;
+    outline: none;
+}
+.b{
+    display: flex;
+    margin-left: auto;
+    float: right;
+    background-color: #3D464D;
+    color: #F5F5F5;
+
+}
+.menu{
+    background-color: #3D464D !important;
+     text-decoration: none;
+}
+
+.menu:hover{
+    color: #FFD333 !important;
+}
